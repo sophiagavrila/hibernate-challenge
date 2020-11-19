@@ -8,7 +8,7 @@ Within this repository there are two Hibernate applications.  Within a team, you
   * The username for all DB's are `postgres`
   * The password for all DB's are `postgres`
   * The ports for all DB's are `5432`
-> You will need to update the Hibernate configuration files to connect to your database. 
+> You will need to update the Hibernate configuration files and POM.xml file in order to reconfigure dependencies and connect to your database. 
 
 ### Your breakout room number determines your team number.
  
