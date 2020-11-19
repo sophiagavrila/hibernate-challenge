@@ -20,4 +20,4 @@ The database endpoints you will use as your RDS are as follows:
 * **Team-5**: team-5.c9chs4ontkbe.us-east-1.rds.amazonaws.com
 
 ## End Goal:
-You are able to persist objects to the database and return the objects from your database and view them in the console.
+You are able to persist objects to the database and return the objects from your database & view them in the console.
