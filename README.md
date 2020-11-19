@@ -1,6 +1,7 @@
 # Hibernate Challenge
-Within this repository there are two Hibernate applications.  Within a team, your goal is to do the following:
+Within this repository there are two Hibernate applications.  Within a team, your goal is to migrate the application to a postgreSQL database hosted on Amazon RDS and establish persitence of the Java objects within the application to your assigned database.
 
+### Steps:
 * Clone the repository.
 * Import the two projects into your IDE as `Existing Maven Projects`
 * Refactor the code to achieve persistence to your assigned database hosted by Amazon RDS.
